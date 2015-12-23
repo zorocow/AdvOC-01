@@ -1,6 +1,6 @@
 [package]
 name = "advent_of_code"
-version = "1.0.0"
+version = "2.0.0"
 authors = ["zorocow <zorocow@gmail.com>"]
 description = "my answer to Advent of Code"
 license-file = "LICENSE"
