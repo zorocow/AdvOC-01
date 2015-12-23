@@ -1,4 +1,4 @@
 [root]
-name = "AdvOC01"
-version = "0.1.0"
+name = "advent_of_code"
+version = "1.0.0"
 
